@@ -1,18 +1,18 @@
 {
   "Ads": [
     {
-      "select_main_ads": "STARTAPP",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "Android_Banner",
-      "main_ads_intertitial": "Android_Interstitial",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards": "Android_Rewarded",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
       "backup_native_ads_Admob_or_applovin":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
-      "interval_intertitial": 1,
-      "initialize_sdk":"203328621",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "survey_api_key":"",
       "high_paying_keyword_1": "",
@@ -45,10 +45,10 @@
     {
       "id": 3,
       "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "title":"ELF Pariwisata",
+      "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Download-Mod-Bussid-ELF-Pariwisata.jpg",
+      "link_mods":"https://drive.google.com/file/d/1O6cwXG9kO4v6dlb2gqCBBLA-QXWYDJ-V/view?usp=sharing",
+      "link_livery":"https://drive.google.com/file/d/1qvBBLSfQcfPiuaY1qcD9gr24Uufewnyo/view?usp=sharing"      
     }
   ,
     {
@@ -74,6 +74,14 @@
       "image":"file:///android_asset/truck.webp",
       "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 7,
+      "category":"Bis",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
     }
   ]
 }

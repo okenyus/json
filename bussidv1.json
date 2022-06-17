@@ -1,0 +1,39 @@
+ { "Ads": [
+    {
+      "select_main_ads": "UNITY",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "Android_Banner",
+      "main_ads_intertitial":"Android_Interstitial",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_native_for_admob_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"3106384",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"ELF Juragan 99",
+      "image":"https://gameitu.com/wp-content/uploads/2022/03/1.-Mod-Mitsubishi-ELF-Juragan-99.jpg",
+      "link_mods":"https://drive.google.com/uc?export=download&id=1dR1CujYUq-iVU-AQF9KhiE95Z5_thBfS",
+      "link_livery":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbkWov_4oeTRJA7enpfgpZT64P2AtuTujFcALbCDXCexyUB5P0N8rLtYw_hGy-nTjAm_Ylf73p8dvU8MnDvncAtnaQNyj8KJUNTQszaecjyvlorkPTWrmXg37J3P7VITLWAsJmVpXuShZVDOzoUn_Z83sSQelaxHCytHrYXh-7xfPoOenCZoDTKLB/s16000/1.%20elf%20livery%20juragan%2099.png"
+    },
+    {
+      "title":"ELF Giga New",
+      "image":"https://gameitu.com/wp-content/uploads/2022/03/Download-Mod-Bussid-ELF.jpg",
+      "link_mods":"https://drive.google.com/uc?export=download&id=1sjHguRR6N8yRLnpOzVQCeDFwG5onfEK6",
+      "link_livery":""
+    }
+  ]
+}
